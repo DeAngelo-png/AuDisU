@@ -25,7 +25,7 @@ detect_format() {
     fi
 }
 
-# ASCII progress bar 
+# ASCII progress bar, lowk stolen from another repo
 progress_bar() {
     local duration=${1}
     local columns=$(tput cols)
