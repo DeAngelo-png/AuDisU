@@ -3,7 +3,7 @@
 # Initial Setup Script - Must be run as root
 if [ "$EUID" -ne 0 ]; then
     echo -e "\033[91m	This installer must be run as root!!!!\033[0m"
-    echo "	Please run with: sudo ./init"
+    echo "	Please run with sudo!"
     exit 1
 fi
 
