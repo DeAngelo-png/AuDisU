@@ -1,7 +1,7 @@
 # (Au)to (Dis)cord (U)pdater
 ###### Yes, I am horrible at naming stuff
 
-**audisu** is a convenient command-line tool that automatically downloads and installs the latest version of Discord for Linux. It detects your distribution and uses the appropriate package format, making updates quick and hassle-free. No need to manually download packages or manage dependencies!
+**audisu** is a convenient tool that automatically downloads and installs the latest version of Discord for Linux. It detects your distribution and uses the appropriate package format automatically. No need to manually `dpkg`.
 
 ## Installation
 
